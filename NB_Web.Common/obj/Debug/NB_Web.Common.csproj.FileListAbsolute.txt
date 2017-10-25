@@ -1,0 +1,7 @@
+D:\xProject\NBIOT\Code\NB_Web\NB_Web.Common\bin\Debug\NB_Web.Common.dll
+D:\xProject\NBIOT\Code\NB_Web\NB_Web.Common\bin\Debug\NB_Web.Common.pdb
+D:\xProject\NBIOT\Code\NB_Web\NB_Web.Common\obj\Debug\NB_Web.Common.dll
+D:\xProject\NBIOT\Code\NB_Web\NB_Web.Common\obj\Debug\NB_Web.Common.pdb
+D:\xProject\NBIOT\Code\NB_Web\NB_Web.Common\obj\Debug\NB_Web.Common.csprojResolveAssemblyReference.cache
+D:\xProject\NBIOT\Code\NB_Web\NB_Web.Common\bin\Debug\NB_Web.Model.dll
+D:\xProject\NBIOT\Code\NB_Web\NB_Web.Common\bin\Debug\NB_Web.Model.pdb
